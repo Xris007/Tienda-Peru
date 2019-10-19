@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Super Tienda Perú</string>
+    <string name="mensaje">Entérate de loque estapasando en el mundo en este momento</string>
+    <string name="crear_cuenta">Crear una cuenta</string>
+    <string name="tienes_cuenta">¿Ya tienes una cuenta? </string>
+    <string name="inicia_sesion">Iniciar Sesión</string>
+
+    <!-- Iniciar Sesion-->
+    <string name="usuario">Usuario</string>
+    <string name="usuario_hint">Nombre de Usuario</string>
+    <string name="clave">Contraseña</string>
+    <string name="clave_hint">Escriba su contraseña</string>
+
+    <string name="acerca_de">Acerca de</string>
+    <string name="terminos">Términos y Condiciones</string>
+    <string name="ayuda">Ayuda</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="reglas">Reglas</string>
+    <string name="reglas_contenido">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam laoreet feugiat risus vel tempus. Mauris id felis id ligula rhoncus tempor venenatis ut mauris. \n\nProin metus est, rutrum sed rutrum eu, viverra nec magna. \n\nUt lobortis est ut dui varius, ac vehicula risus imperdiet. \n\nPraesent sed metus a lacus eleifend malesuada. \n\nClass aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. \n\nPellentesque at nisl ante. \n\nSed a metus odio. \n\nSed quis libero sed risus scelerisque cursus. \n\nSuspendisse egestas justo auctor, eleifend justo et, ornare felis. \n\nPhasellus congue, quam et pellentesque elementum, leo felis consectetur enim, ac convallis nibh sapien eu augue. Mauris suscipit felis sed justo euismod, ultricies commodo ipsum gravida. \n\nPraesent varius nibh id ex feugiat ullamcorper. \n\nDuis facilisis libero nec sapien gravida ultrices. \n\nDonec molestie nibh eu eros tristique, id gravida nisi egestas. \n\nAenean dignissim urna id justo hendrerit, in varius augue laoreet. Sed ut lectus sed sem ultricies maximus. \n\nMauris pharetra faucibus enim, quis suscipit nibh imperdiet vitae. \n\nVivamus in velit aliquet, dictum mi eu, viverra eros. Mauris suscipit felis sed justo euismod, ultricies commodo ipsum gravida. \n\nPraesent varius nibh id ex feugiat ullamcorper. \n\nDuis facilisis libero nec sapien gravida ultrices. \n\nDonec molestie nibh eu eros tristique, id gravida nisi egestas. \n\nAenean dignissim urna id justo hendrerit, in varius augue laoreet. Sed ut lectus sed sem ultricies maximus. \n\nMauris pharetra faucibus enim, quis suscipit nibh imperdiet vitae. \n\nVivamus in velit aliquet, dictum mi eu, viverra eros.</string>
+
+    <string name="derechos">Derechos</string>
+    <string name="derechos_contenido">Donec ut vestibulum ex, imperdiet placerat dolor. Etiam non sapien sed metus tristique ornare id id magna. \n\nUt ligula nisi, eleifend sit amet quam eget, lacinia feugiat metus. \n\nPhasellus dolor tellus, ullamcorper id iaculis ut, malesuada non elit. \n\nNullam mollis ante eget accumsan varius. \n\nVestibulum ultrices venenatis ornare. \n\nNulla arcu sapien, posuere vestibulum egestas in, suscipit eget tortor. \n\nIn vel convallis est. \n\nInterdum et malesuada fames ac ante ipsum primis in faucibus. \n\nFusce felis lorem, efficitur a ante et, interdum mattis ante. Mauris suscipit felis sed justo euismod, ultricies commodo ipsum gravida. \n\nPraesent varius nibh id ex feugiat ullamcorper. Duis facilisis libero nec sapien gravida ultrices. \n\nDonec molestie nibh eu eros tristique, id gravida nisi egestas. \n\nAenean dignissim urna id justo hendrerit, in varius augue laoreet. Sed ut lectus sed sem ultricies maximus. \n\nMauris pharetra faucibus enim, quis suscipit nibh imperdiet vitae. \n\nVivamus in velit aliquet, dictum mi eu, viverra eros.</string>
+
+    <string name="reconocimiento">Reconocimiento</string>
+    <string name="reconocimiento_contenido">Mauris suscipit felis sed justo euismod, ultricies commodo ipsum gravida. \n\nPraesent varius nibh id ex feugiat ullamcorper. \n\nDuis facilisis libero nec sapien gravida ultrices. \n\nDonec molestie nibh eu eros tristique, id gravida nisi egestas. \n\nAenean dignissim urna id justo hendrerit, in varius augue laoreet. Sed ut lectus sed sem ultricies maximus. \n\nMauris pharetra faucibus enim, quis suscipit nibh imperdiet vitae. \n\nVivamus in velit aliquet, dictum mi eu, viverra eros.Mauris suscipit felis sed justo euismod, ultricies commodo ipsum gravida. \n\nPraesent varius nibh id ex feugiat ullamcorper. \n\nDuis facilisis libero nec sapien gravida ultrices. \n\nDonec molestie nibh eu eros tristique, id gravida nisi egestas. \n\nAenean dignissim urna id justo hendrerit, in varius augue laoreet. Sed ut lectus sed sem ultricies maximus. \n\nMauris pharetra faucibus enim, quis suscipit nibh imperdiet vitae. \n\nVivamus in velit aliquet, dictum mi eu, viverra eros.Mauris suscipit felis sed justo euismod, ultricies commodo ipsum gravida. \n\nPraesent varius nibh id ex feugiat ullamcorper. \n\nDuis facilisis libero nec sapien gravida ultrices. \n\nDonec molestie nibh eu eros tristique, id gravida nisi egestas. \n\nAenean dignissim urna id justo hendrerit, in varius augue laoreet. Sed ut lectus sed sem ultricies maximus. \n\nMauris pharetra faucibus enim, quis suscipit nibh imperdiet vitae. \n\nVivamus in velit aliquet, dictum mi eu, viverra eros.Mauris suscipit felis sed justo euismod, ultricies commodo ipsum gravida. \n\nPraesent varius nibh id ex feugiat ullamcorper. \n\nDuis facilisis libero nec sapien gravida ultrices. \n\nDonec molestie nibh eu eros tristique, id gravida nisi egestas. \n\nAenean dignissim urna id justo hendrerit, in varius augue laoreet. Sed ut lectus sed sem ultricies maximus. \n\nMauris pharetra faucibus enim, quis suscipit nibh imperdiet vitae. \n\nVivamus in velit aliquet, dictum mi eu, viverra eros.</string>
+    <string name="title_activity_escritorio">EscritorioActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="inicio">Inicio</string>
+    <string name="categoria">Categoria</string>
+    <string name="productos_por_categor_a">¨Productos por categoría</string>
+    <string name="colaboradores">Colaboradores</string>
+    <string name="acceso">Acceso</string>
+    <string name="cerrar_sesi_n">Cerrar Sesión</string>
+    <string name="salir">Salir</string>
+
+</resources>

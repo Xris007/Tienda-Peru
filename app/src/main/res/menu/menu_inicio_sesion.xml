@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/nav_acerca_de"
+        android:title="@string/acerca_de"
+        android:icon="@drawable/ic_aceraade"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/nav_ayuda"
+        android:title="@string/ayuda" />
+
+    <item android:id="@+id/nav_terminos"
+        android:title="@string/terminos" />
+</menu>
